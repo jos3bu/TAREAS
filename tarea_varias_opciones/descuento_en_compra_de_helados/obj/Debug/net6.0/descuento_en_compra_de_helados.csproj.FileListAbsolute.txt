@@ -1,0 +1,15 @@
+C:\Users\jbuch\OneDrive\Escritorio\UNIVERSIDAD\ALGORITMOS\tarea porcentajes\descuento_en_compra_de_helados\bin\Debug\net6.0\descuento_en_compra_de_helados.exe
+C:\Users\jbuch\OneDrive\Escritorio\UNIVERSIDAD\ALGORITMOS\tarea porcentajes\descuento_en_compra_de_helados\bin\Debug\net6.0\descuento_en_compra_de_helados.deps.json
+C:\Users\jbuch\OneDrive\Escritorio\UNIVERSIDAD\ALGORITMOS\tarea porcentajes\descuento_en_compra_de_helados\bin\Debug\net6.0\descuento_en_compra_de_helados.runtimeconfig.json
+C:\Users\jbuch\OneDrive\Escritorio\UNIVERSIDAD\ALGORITMOS\tarea porcentajes\descuento_en_compra_de_helados\bin\Debug\net6.0\descuento_en_compra_de_helados.dll
+C:\Users\jbuch\OneDrive\Escritorio\UNIVERSIDAD\ALGORITMOS\tarea porcentajes\descuento_en_compra_de_helados\bin\Debug\net6.0\descuento_en_compra_de_helados.pdb
+C:\Users\jbuch\OneDrive\Escritorio\UNIVERSIDAD\ALGORITMOS\tarea porcentajes\descuento_en_compra_de_helados\obj\Debug\net6.0\descuento_en_compra_de_helados.csproj.AssemblyReference.cache
+C:\Users\jbuch\OneDrive\Escritorio\UNIVERSIDAD\ALGORITMOS\tarea porcentajes\descuento_en_compra_de_helados\obj\Debug\net6.0\descuento_en_compra_de_helados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jbuch\OneDrive\Escritorio\UNIVERSIDAD\ALGORITMOS\tarea porcentajes\descuento_en_compra_de_helados\obj\Debug\net6.0\descuento_en_compra_de_helados.AssemblyInfoInputs.cache
+C:\Users\jbuch\OneDrive\Escritorio\UNIVERSIDAD\ALGORITMOS\tarea porcentajes\descuento_en_compra_de_helados\obj\Debug\net6.0\descuento_en_compra_de_helados.AssemblyInfo.cs
+C:\Users\jbuch\OneDrive\Escritorio\UNIVERSIDAD\ALGORITMOS\tarea porcentajes\descuento_en_compra_de_helados\obj\Debug\net6.0\descuento_en_compra_de_helados.csproj.CoreCompileInputs.cache
+C:\Users\jbuch\OneDrive\Escritorio\UNIVERSIDAD\ALGORITMOS\tarea porcentajes\descuento_en_compra_de_helados\obj\Debug\net6.0\descuento_en_compra_de_helados.dll
+C:\Users\jbuch\OneDrive\Escritorio\UNIVERSIDAD\ALGORITMOS\tarea porcentajes\descuento_en_compra_de_helados\obj\Debug\net6.0\refint\descuento_en_compra_de_helados.dll
+C:\Users\jbuch\OneDrive\Escritorio\UNIVERSIDAD\ALGORITMOS\tarea porcentajes\descuento_en_compra_de_helados\obj\Debug\net6.0\descuento_en_compra_de_helados.pdb
+C:\Users\jbuch\OneDrive\Escritorio\UNIVERSIDAD\ALGORITMOS\tarea porcentajes\descuento_en_compra_de_helados\obj\Debug\net6.0\descuento_en_compra_de_helados.genruntimeconfig.cache
+C:\Users\jbuch\OneDrive\Escritorio\UNIVERSIDAD\ALGORITMOS\tarea porcentajes\descuento_en_compra_de_helados\obj\Debug\net6.0\ref\descuento_en_compra_de_helados.dll

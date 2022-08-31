@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "descuento_en_compra_de_helados/1.0.0": {
+        "runtime": {
+          "descuento_en_compra_de_helados.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "descuento_en_compra_de_helados/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jbuch\\OneDrive\\Escritorio\\UNIVERSIDAD\\ALGORITMOS\\tarea porcentajes\\descuento_en_compra_de_helados\\descuento_en_compra_de_helados.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jbuch\\OneDrive\\Escritorio\\UNIVERSIDAD\\ALGORITMOS\\tarea porcentajes\\descuento_en_compra_de_helados\\descuento_en_compra_de_helados.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jbuch\\OneDrive\\Escritorio\\UNIVERSIDAD\\ALGORITMOS\\tarea porcentajes\\descuento_en_compra_de_helados\\descuento_en_compra_de_helados.csproj",
+        "projectName": "descuento_en_compra_de_helados",
+        "projectPath": "C:\\Users\\jbuch\\OneDrive\\Escritorio\\UNIVERSIDAD\\ALGORITMOS\\tarea porcentajes\\descuento_en_compra_de_helados\\descuento_en_compra_de_helados.csproj",
+        "packagesPath": "C:\\Users\\jbuch\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jbuch\\OneDrive\\Escritorio\\UNIVERSIDAD\\ALGORITMOS\\tarea porcentajes\\descuento_en_compra_de_helados\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jbuch\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
